@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="assets/ubundi-hero.png" alt="Abstract connected systems landscape for Ubundi" width="100%">
-</p>
-
-<p align="center">
   <img src="assets/ubundi-logo-navy.png" alt="Ubundi" width="164">
 </p>
 
@@ -54,7 +50,6 @@ AI is moving into every part of society. Our work is to make that shift more use
       <h3 align="center">tootoo</h3>
       <p align="center"><strong>A live identity layer for AI.</strong></p>
       <p>tootoo turns self-knowledge into personal context that language models can read, so answers can be grounded in what someone values, believes, and aspires to.</p>
-      <p align="center"><a href="https://github.com/Ubundi/tootoo-openclaw"><strong>Explore tootoo for OpenClaw</strong></a></p>
     </td>
     <td width="50%" valign="top">
       <img src="assets/kwanda.png" alt="kwanda product card" width="100%">
@@ -66,22 +61,26 @@ AI is moving into every part of society. Our work is to make that shift more use
   </tr>
 </table>
 
-## Open Work
+## Why Ubundi
 
-Our public repositories are the parts of the studio we are building in the open: agent memory, context infrastructure, evaluation, developer guidance, and venture-facing experiments.
+We are building from the belief that AI's future should not be shaped only by the places that already own the loudest platforms. Ubundi exists to help South African builders, founders, and teams create AI products with local roots and global ambition.
 
-| Area | Repository | Why it matters |
-| --- | --- | --- |
-| Agent memory | [openclaw-cortex](https://github.com/Ubundi/openclaw-cortex) | Persistent memory for OpenClaw agents: auto-recall, auto-capture, tools, commands, file sync, and knowledge-graph retrieval. |
-| Memory evaluation | [engram-benchmark](https://github.com/Ubundi/engram-benchmark) | Runtime benchmark for testing whether agents can recover grounded knowledge after the original context window is gone. |
-| Context standards | [ubundi-agent-mode](https://github.com/Ubundi/ubundi-agent-mode) | A standard for making important artifacts readable by humans and usable by agents through claim maps, prompts, review gates, and freshness boundaries. |
-| Identity context | [tootoo-openclaw](https://github.com/Ubundi/tootoo-openclaw) | An OpenClaw integration for bringing tootoo context into agent workflows. |
-| Physical AI | [firstmotive-site](https://github.com/Ubundi/firstmotive-site) | First Motive's public surface for ground-truth infrastructure in Physical AI. |
-| Experiments | [claw-journal](https://github.com/Ubundi/claw-journal) | Public experimental work around agent workflows and memory-adjacent tooling. |
-
-<p align="center">
-  <a href="https://github.com/orgs/Ubundi/repositories"><strong>Explore every public repository</strong></a>
-</p>
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>Build with us</h3>
+      <p>We create the scaffolding for local developers, founders, and operators to build serious AI products instead of waiting for permission from elsewhere.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Earn real equity</h3>
+      <p>We believe people who add value to the studio should share in the upside of the ventures, tools, and intellectual wealth they help create.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Learn in public</h3>
+      <p>Through field notes, workshops, and practical experiments, we share how we are turning context, agents, and infrastructure into usable AI systems.</p>
+    </td>
+  </tr>
+</table>
 
 ## How We Think About AI
 
