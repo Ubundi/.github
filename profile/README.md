@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/ubundi-hero.png" alt="Ubundi" width="100%">
+  <img src="assets/ubundi-banner.jpg" alt="Ubundi" width="100%">
 </p>
 
 <div align="center">
@@ -14,6 +14,7 @@
 <br>
 
 [![Website](https://img.shields.io/badge/ubundi.com-2F3498?style=flat-square)](https://ubundi.com)
+[![Email](https://img.shields.io/badge/team%40ubundi.co.za-2F3498?style=flat-square)](mailto:team@ubundi.co.za)
 [![Open&nbsp;source](https://img.shields.io/badge/open%20source-public%20repos-1B1F44?style=flat-square)](#open-source)
 
 </div>
@@ -85,6 +86,6 @@ If you're a high-conviction founder or engineer, we'd love to hear from you.
 
 &nbsp;
 
-**[ubundi.com](https://ubundi.com)**
+**[ubundi.com](https://ubundi.com)** · [team@ubundi.co.za](mailto:team@ubundi.co.za)
 
 </div>
